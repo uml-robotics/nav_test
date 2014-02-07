@@ -1,0 +1,5 @@
+Nav stack testing
+
+roslaunch ./launch/sim.launch
+
+Parameters are in ./testparams/

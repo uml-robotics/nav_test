@@ -1,0 +1,14 @@
+<package>
+  <description brief="testparams">
+
+     testparams
+
+  </description>
+  <author>mmedvede</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/testparams</url>
+
+</package>
+
+
